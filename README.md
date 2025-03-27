@@ -9,7 +9,7 @@ This website showcases a personal experience and opinion on the MOBA (Multiplaye
 - **Carousel**:
   - Displays main characters (champions) from League of Legends.
   - Shows different roles in the game such as Botlane, Jungle, Toplane, and Midlane with brief descriptions.
-- **Aside Section**: Includes a personal commentary on why the creator no longer plays League of Legends, discussing the impact of the community and other game modes.
+- **Aside Section**: Includes a personal commentary on why the people no longer plays League of Legends, discussing the impact of the community and other game modes.
 - **Footer**: Contains links to the official League of Legends website, social media pages, and other related resources.
 
 ## Technologies Used
