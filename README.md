@@ -24,19 +24,19 @@ index.html
 
 /images
 
-loldiamond.jpg
+  loldiamond.jpg
 
-vi.jpg
+  vi.jpg
 
-diana.jpg
+  diana.jpg
 
-lolBot.webp
+  lolBot.webp
 
-lolJungle.webp
+  lolJungle.webp
 
-lolTop.webp
+  lolTop.webp
 
-lolMid.webp
+  lolMid.webp
 
 ## Installation
 
