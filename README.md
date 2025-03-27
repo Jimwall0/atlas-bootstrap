@@ -5,11 +5,11 @@ This website showcases a personal experience and opinion on the MOBA (Multiplaye
 ## Features
 
 - **Header**: Displays the title "MOBA Genre."
-- **Banner**: Contains a personal quote about reaching Diamond rank in LoL.
-- **Carousel**:
+- **Banner**: Contains a personal quote about reaching Diamond rank in LoL. (Credentials)
+- **Carousel**: (MY Mains in League of Legends)
   - Displays main characters (champions) from League of Legends.
   - Shows different roles in the game such as Botlane, Jungle, Toplane, and Midlane with brief descriptions.
-- **Aside Section**: Includes a personal commentary on why the people no longer plays League of Legends, discussing the impact of the community and other game modes.
+- **Aside Section**: Includes a personal commentary on why the people no longer plays League of Legends, discussing the impact of the community and other game modes. (Why do I play League of Legends)
 - **Footer**: Contains links to the official League of Legends website, social media pages, and other related resources.
 
 ## Technologies Used
